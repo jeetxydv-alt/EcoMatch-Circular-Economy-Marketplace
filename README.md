@@ -161,7 +161,7 @@ The platform tracks:
 
 ## 🔄 How EcoMatch Works
 
-•text
+```text
 Seller Lists Surplus Material
             ↓
      Material Details
